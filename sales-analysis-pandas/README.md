@@ -1,7 +1,6 @@
 # Sales Data Analysis (Pandas)
 
-This project is based on a public tutorial repository:
-Pandas-Data-Science-Tasks
+This project is based on a public tutorial repository
 
 ## What I did
 
